@@ -5,3 +5,4 @@ This repository contains individual write-ups for each experiment in the Cloud C
 ## Experiments
 
 1. [Install VirtualBox / VMware Workstation with different flavors of Linux or Windows OS](Experiment-01-Install-VirtualBox-VMware-Workstation-with-different-flavors/README.md)
+2. [Install a C compiler in the virtual machine created using VirtualBox and execute a simple program](Experiment-02-Install-a-C-compiler-in-the-virtual-machine-and-execute-a-si/README.md)
